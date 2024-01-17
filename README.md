@@ -8,7 +8,7 @@ a 3-tier architecture: client, server, and database. This documentation provides
 an overview of the project structure, features, and instructions for starting,
 testing, and deploying the application.
 
-### Source and Inspiration
+### Deployment
 
 The project is deployed at
 [https://lingering-sun-2871.fly.dev/](https://lingering-sun-2871.fly.dev/).
