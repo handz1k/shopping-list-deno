@@ -1,4 +1,4 @@
-# Shared Shopping List Project Documentation
+# Shared Shopping List
 
 ## Overview
 
